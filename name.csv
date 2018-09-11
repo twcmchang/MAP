@@ -1,7 +1,13 @@
-name,short,cap_short,cap_long
-v,brightness,Brightness,Brightness
-rv,relative brightness,Relative Brightness,Relative Brightness
-s,saturation,Saturation,Saturation
-rs,relative saturation,Relative Saturation,Relative Saturation
-tavg,average temperature,Average Temperature,Average Temperature (degree)
-srad,solar radiation,Solar Radiation,Solar Radiation (kJ per square meter per day)
+name,short,cap_short,cap_long,unit
+v,brightness,Brightness,Brightness,
+rv,relative brightness,Relative Brightness,Relative Brightness,
+s,saturation,Saturation,Saturation,
+rs,relative saturation,Relative Saturation,Relative Saturation,
+tavg,average temperature,Average Temperature,Average Temperature,(degree)
+tmin,minimum temperature,Minimum Temperature,Minimum Temperature,(degree)
+tmax,maximum temperature,Maximum Temperature,Maximum Temperature,(degree)
+srad,solar radiation,Solar Radiation,Solar Radiation,(kJ per square meter per day)
+alt,elevation,Elevation,Elevational Gradient,(meter)
+prec,precipitation,Precipitation,Precipitation,(mm)
+wind,wind speed,Wind Speed,Wind Speed,(meter/sec)
+vapr,water vapor pressure,Water Vaper Pressure,Water Vaper Pressure,(kPa)
