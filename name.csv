@@ -1,0 +1,7 @@
+name,short,cap_short,cap_long
+v,brightness,Brightness,Brightness
+rv,relative brightness,Relative Brightness,Relative Brightness
+s,saturation,Saturation,Saturation
+rs,relative saturation,Relative Saturation,Relative Saturation
+tavg,average temperature,Average Temperature,Average Temperature (degree)
+srad,solar radiation,Solar Radiation,Solar Radiation (kJ per square meter per day)
